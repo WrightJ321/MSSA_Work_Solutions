@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.1_WrightJ", "5.3.1_WrightJ.csproj", "{C58D6ABA-FD33-4321-B8D1-63F7FA98C9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.2_WrightJ", "..\5.3.2_WrightJ\5.3.2_WrightJ.csproj", "{5ACA9CE4-209E-473C-A6F9-C6E17064CB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58D6ABA-FD33-4321-B8D1-63F7FA98C9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58D6ABA-FD33-4321-B8D1-63F7FA98C9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58D6ABA-FD33-4321-B8D1-63F7FA98C9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58D6ABA-FD33-4321-B8D1-63F7FA98C9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACA9CE4-209E-473C-A6F9-C6E17064CB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACA9CE4-209E-473C-A6F9-C6E17064CB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACA9CE4-209E-473C-A6F9-C6E17064CB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACA9CE4-209E-473C-A6F9-C6E17064CB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91789133-48CD-444F-AB8D-3AEBEEB78EE7}
+	EndGlobalSection
+EndGlobal
